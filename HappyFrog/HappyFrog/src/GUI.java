@@ -26,6 +26,8 @@ import javax.swing.JPanel;
  *
  * @author Admin
  */
+
+// Hello Im Le Van Anh Tu
 public class GUI extends javax.swing.JFrame {
 
     /**
